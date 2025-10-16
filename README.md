@@ -12,6 +12,8 @@ _Developer Setup Steps:_
    
    kaggle competitions download -c dog-breed-identification
 
+   DO NOT COMMIT ANY DATA (Compressed or Not) TO THE REPO. THIS WOULD REQUIRE GIT LARGE FILE STORAGE
+ 
 5. Data will be downloaded as a zip file, unzip this file into a subdirectory called _data_.
 
    Your final directory should resemble: cs325_final/data/.  All code will be developed assuming this file structure.
